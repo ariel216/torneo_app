@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>TorneoApp</title>
+  <link rel="shortcut icon" href="/assets/img/logo.png">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body >
+  <nav class="navbar navbar-light" style="background-color: #52b39a;">
+    <span class="navbar-brand mb-0 h1 mx-auto"><h2 class="text-white">Torneo App</h2></span>
+  </nav>
+  <div class="container pt-4" id="app">
+
+    <div v-if="!jugando">
+      <img src="assets/img/logo.png" class="mx-auto d-block" width="150px;" height="150px;">
+      <div class="jumbotron text-center">
+        <h1 class="display-5 ">Preguntas del Torneo Bíblico</h1>
+        <p class="lead">Bienvenido</p>
+        <hr class="my-4">
+        <p>¿Eres capaz de responder correctamente preguntas del torneo Bíblico al azar?</p>
+        <p class="lead">
+          <a class="btn btn-info btn-lg text-white" @click="iniciar()" role="button">¡Jugar!</a>
+        </p>
+      </div>
+    </div>
+    <div v-if="jugando">
+      <div class="row">
+        <div class="col-6">
+          <img src="assets/img/logo.png" class="float-left p-2" width="70px;" height="70px;">
+        </div>
+        <div class="col-3 text-right">
+          <h3><span class="badge badge-secondary">{{puntaje}}</span> Puntos</h3>
+        </div>
+        <div class="col-3 text-right">
+          <h3><span :class="{'badge badge-danger': tiempo<3, 'badge badge-warning': tiempo>2 && tiempo<6, 'badge badge-info': tiempo>5}">{{tiempo}}</span> Seg.</h3>
+        </div>
+      </div>
+      <div class="card" v-if="!cargando">
+        <div class="card-header border-success">
+          Pregunta {{np}}
+        </div>
+        <div class="card-body text-center">
+          <blockquote class="blockquote-reverse">
+            <h5 class="card-title">{{pregunta.pregunta}}</h5>
+          </blockquote>
+        </div>
+        <div class="card-footer text-center">
+          <a @click="elegirRespuesta(pregunta.respuestas[0].id)" :class="{'btn btn-outline-warning': pregunta.respuestas[0].id!==idrespuesta, 'btn btn-warning': pregunta.respuestas[0].id===idrespuesta}">{{pregunta.respuestas[0].valor}}</a>
+          <a @click="elegirRespuesta(pregunta.respuestas[1].id)" :class="{'btn btn-outline-warning': pregunta.respuestas[1].id!==idrespuesta, 'btn btn-warning': pregunta.respuestas[1].id===idrespuesta}">{{pregunta.respuestas[1].valor}}</a>
+          <a @click="elegirRespuesta(pregunta.respuestas[2].id)" :class="{'btn btn-outline-warning': pregunta.respuestas[2].id!==idrespuesta, 'btn btn-warning': pregunta.respuestas[2].id===idrespuesta}">{{pregunta.respuestas[2].valor}}</a>
+          <a @click="elegirRespuesta(pregunta.respuestas[3].id)" :class="{'btn btn-outline-warning': pregunta.respuestas[3].id!==idrespuesta, 'btn btn-warning': pregunta.respuestas[3].id===idrespuesta}">{{pregunta.respuestas[3].valor}}</a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script type="text/javascript" src="app.js"></script>
+</body>
+</html>

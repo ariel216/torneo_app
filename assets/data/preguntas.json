@@ -1,0 +1,552 @@
+[
+ {
+   "id": 1,
+   "pregunta": "¿Qué es la Biblia?",
+   "respuestas": [
+     {"id":1, "valor":"La Palabra Inspirada por Dios"},
+     {"id":2, "valor":"La Palabra Audible de Dios"},
+     {"id":3, "valor":"La Palabra Aconsejada por Dios"},
+     {"id":4, "valor":"La Palabra Infundida por Dios"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 2,
+   "pregunta": "¿Cuántos libros tiene la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"67"},
+     {"id":2, "valor":"69"},
+     {"id":3, "valor":"65"},
+     {"id":4, "valor":"66"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 3,
+   "pregunta": "¿Cómo se llaman las dos divisiones principales de la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"Antiguo Testamento y Nuevo Testamento"},
+     {"id":2, "valor":"Antiguo Contrato y Otro Contrato"},
+     {"id":3, "valor":"Antiguo Testamento y Otro Testamento"},
+     {"id":4, "valor":"Anterior Testamento y Nuevo Testamento"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 4,
+   "pregunta": "Da dos sinónimos de la palabra: Testamento",
+   "respuestas":[
+     {"id":1, "valor":"Libros, Contrato"},
+     {"id":2, "valor":"Pacto, Contrato"},
+     {"id":3, "valor":"Pactos, Tratados"},
+     {"id":4, "valor":"Pacto, Tratado"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 5,
+   "pregunta": "¿Cuántos libros componen el Antiguo Testamento?",
+   "respuestas":[
+     {"id":1, "valor":"28"},
+     {"id":2, "valor":"27"},
+     {"id":3, "valor":"39"},
+     {"id":4, "valor":"36"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 6,
+   "pregunta": "¿En qué idiomas fue escrito el Antiguo Testamento?",
+   "respuestas":[
+     {"id":1, "valor":"Griego y Arameo"},
+     {"id":2, "valor":"Hebreo y Griego"},
+     {"id":3, "valor":"Hebreo y Arameo"},
+     {"id":4, "valor":"Hebreo y Latin"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 7,
+   "pregunta": "¿Cuántos libros componen el Nuevo Testamento?",
+   "respuestas":[
+     {"id":1, "valor":"27"},
+     {"id":2, "valor":"39"},
+     {"id":3, "valor":"28"},
+     {"id":4, "valor":"37"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 8,
+   "pregunta": "¿En qué idioma fue escrito el Nuevo Testamento?",
+   "respuestas":[
+     {"id":1, "valor":"Hebreo"},
+     {"id":2, "valor":"Griego"},
+     {"id":3, "valor":"Arameo"},
+     {"id":4, "valor":"Latín"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 9,
+   "pregunta": "¿Cuántos hombres fueron inspirados por Dios para escribir la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"Alrededor de 30"},
+     {"id":2, "valor":"Alrededor de 60"},
+     {"id":3, "valor":"Alrededor de 50"},
+     {"id":4, "valor":"Alrededor de 40"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 10,
+   "pregunta": "¿Cuántos años abarca la escritura total de la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"Aproximadamente 1500"},
+     {"id":2, "valor":"Aproximadamente 1600"},
+     {"id":3, "valor":"Aproximadamente 1100"},
+     {"id":4, "valor":"Aproximadamente 1400"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 11,
+   "pregunta": "¿Qué libro de la Biblia relata el origen del mundo?",
+   "respuestas":[
+     {"id":1, "valor":"Job"},
+     {"id":2, "valor":"Apocalipsis"},
+     {"id":3, "valor":"Génesis"},
+     {"id":4, "valor":"Adán"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 12,
+   "pregunta": "Cita los cuatro evangelios",
+   "respuestas":[
+     {"id":1, "valor":"Mateo, Marcos, Lucas, Juan"},
+     {"id":2, "valor":"Mateo, Marco, Lucas, Juan"},
+     {"id":3, "valor":"Mateo, Marcos, Pedro, Juan"},
+     {"id":4, "valor":"Mateo, Marcos, Lucas, 1 Juan"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 13,
+   "pregunta": "¿Qué significa la palabra: Evangelio?",
+   "respuestas":[
+     {"id":1, "valor":"Nueva Esperanza"},
+     {"id":2, "valor":"Nuevas Noticias"},
+     {"id":3, "valor":"Buena Esperanza"},
+     {"id":4, "valor":"Buenas Nuevas"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 14,
+   "pregunta": "¿Cuál es el tema principal de los cuatro evangelios? ",
+   "respuestas":[
+     {"id":1, "valor":"La vida y las enseñanzas de Pablo"},
+     {"id":2, "valor":"La vida y las profecias de Jesús"},
+     {"id":3, "valor":"La vida y las enseñanzas de Jesús"},
+     {"id":4, "valor":"La vida y las enseñanzas de Pedro"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 15,
+   "pregunta": "¿Quién escribió más libros de la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"El Apóstol Pedro"},
+     {"id":2, "valor":"El Apóstol Pablo"},
+     {"id":3, "valor":"El Apóstol Juan"},
+     {"id":4, "valor":"Jesús"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 16,
+   "pregunta": "¿Qué libro de la Biblia relata el origen de la Iglesia?",
+   "respuestas":[
+     {"id":1, "valor":"Génesis"},
+     {"id":2, "valor":"Hechos"},
+     {"id":3, "valor":"Apocalipsis"},
+     {"id":4, "valor":"Mateo"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 17,
+   "pregunta": "¿Qué libro del Nuevo Testamento registra más profecías acerca del futuro?",
+   "respuestas":[
+     {"id":1, "valor":"Apocalipsis"},
+     {"id":2, "valor":"Malaquias"},
+     {"id":3, "valor":"Hechos"},
+     {"id":4, "valor":"Juan"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 18,
+   "pregunta": "¿Qué libro del Antiguo Testamento es una colección de himnos y cantos?",
+   "respuestas":[
+     {"id":1, "valor":"Cantar de los Cantares"},
+     {"id":2, "valor":"Job"},
+     {"id":3, "valor":"Lamentaciones"},
+     {"id":4, "valor":"Salmos"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 19,
+   "pregunta": "¿Quién escribió gran parte de los Salmos?",
+   "respuestas":[
+     {"id":1, "valor":"El Rey Salomón"},
+     {"id":2, "valor":"Samuel"},
+     {"id":3, "valor":"El Rey David"},
+     {"id":4, "valor":"Moisés"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 20,
+   "pregunta": "¿Qué es una epístola?",
+   "respuestas":[
+     {"id":1, "valor":"Una carta escrita por un Profeta"},
+     {"id":2, "valor":"Una carta escrita por Jesús"},
+     {"id":3, "valor":"Una carta escrita por un Pastor"},
+     {"id":4, "valor":"Una carta escrita por un Apóstol"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 21,
+   "pregunta": "¿Qué libro de la Biblia tiene más capítulos?",
+   "respuestas":[
+     {"id":1, "valor":"Salmos"},
+     {"id":2, "valor":"Isaías"},
+     {"id":3, "valor":"Apocalipsis"},
+     {"id":4, "valor":"Job"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 22,
+   "pregunta": "¿Cuál es el capítulo más corto de la Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"Salmo 17"},
+     {"id":2, "valor":"Salmo 117"},
+     {"id":3, "valor":"Salmo 118"},
+     {"id":4, "valor":"Salmo 150"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 23,
+   "pregunta": "¿Cuál es el capítulo más largo de Biblia?",
+   "respuestas":[
+     {"id":1, "valor":"Salmo 19"},
+     {"id":2, "valor":"Salmo 51"},
+     {"id":3, "valor":"Salmo 119"},
+     {"id":4, "valor":"Salmo 100"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 24,
+   "pregunta": "Cita el versículo que enseña quién creó el universo",
+   "respuestas":[
+     {"id":1, "valor":"Génesis 1:2 \"En el principio Dios creo los Cielos y la tierra\""},
+     {"id":2, "valor":"Génesis 1:11 \"En el principio Dios creo los Cielos y la tierra\""},
+     {"id":3, "valor":"Génesis 1:1 \"En el principio Dios creo los Cielos y la tierra\""},
+     {"id":4, "valor":"Génesis 1:14 \"En el principio Dios creo los Cielos y la tierra\""}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 25,
+   "pregunta": "¿Cómo se llamaba el primer hombre y la primera mujer?",
+   "respuestas":[
+     {"id":1, "valor":"Adán y Eva"},
+     {"id":2, "valor":"Abram y Sara"},
+     {"id":3, "valor":"Adán y Sara"},
+     {"id":4, "valor":"Abram y Eva"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 26,
+   "pregunta": "¿Qué distingue al hombre de los animales?",
+   "respuestas":[
+     {"id":1, "valor":"Dios Creó al hombre con inteligencia"},
+     {"id":2, "valor":"Dios Creó al hombre igual a Él"},
+     {"id":3, "valor":"Dios Creó al hombre y la mujer"},
+     {"id":4, "valor":"Dios Creó al hombre a su imagen"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 27,
+   "pregunta": "¿Qué árboles se mencionan en el relato del primer pecado del hombre",
+   "respuestas":[
+     {"id":1, "valor":"1) el árbol de la ciencia del bien  2) el árbol de la vida"},
+     {"id":2, "valor":"1) el árbol de la ciencia del bien y el mal  2) el árbol del mal"},
+     {"id":3, "valor":"1) el árbol de la ciencia  2) el árbol de la vida"},
+     {"id":4, "valor":"1) el árbol de la ciencia del bien y el mal  2) el árbol de la vida"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 28,
+   "pregunta": "¿Cómo entró el pecado al mundo?",
+   "respuestas":[
+     {"id":1, "valor":"Por medio de la desobediencia de Adán y Eva (Gn 3:1-6)"},
+     {"id":2, "valor":"Por medio de la desobediencia de Adán y Eva (Gn 3:1-8)"},
+     {"id":3, "valor":"Por medio de la desobediencia de Adán y Eva (Gn 3:1-7)"},
+     {"id":4, "valor":"Por medio de la desobediencia de Adán y Eva (Gn 3:1-10)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 29,
+   "pregunta": "¿Quiénes fueron los primeros dos hermanos?",
+   "respuestas":[
+     {"id":1, "valor":"Abel y Adán"},
+     {"id":2, "valor":"Jacob y Esaú"},
+     {"id":3, "valor":"Abel y Caín"},
+     {"id":4, "valor":"Moisés y Aarón"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 30,
+   "pregunta": "¿Quién fue el primer asesino?",
+   "respuestas":[
+     {"id":1, "valor":"Caín"},
+     {"id":2, "valor":"Moisés"},
+     {"id":3, "valor":"Adán"},
+     {"id":4, "valor":"Eva"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 31,
+   "pregunta": "¿Quién caminó con Dios hasta que Dios se lo llevó al cielo sin ver muerte?",
+   "respuestas":[
+     {"id":1, "valor":"Enoc (Gn. 5:25)"},
+     {"id":2, "valor":"Enoc (Gn. 5:24)"},
+     {"id":3, "valor":"Enoc (Gn. 5:26)"},
+     {"id":4, "valor":"Enoc (Gn. 5:23)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 32,
+   "pregunta": "Cita el nombre y los años del hombre que vivió más tiempo que ningún otro",
+   "respuestas":[
+     {"id":1, "valor":"Matusalén vivió 959 años"},
+     {"id":2, "valor":"Matusalén vivió 989 años"},
+     {"id":3, "valor":"Matusalén vivió 969 años"},
+     {"id":4, "valor":"Matusalén vivió 669 años"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 33,
+   "pregunta": "¿Por qué envió Dios el diluvio sobre la tierra?",
+   "respuestas":[
+     {"id":1, "valor":"Porque la maldad de los hombres era tal que todos sus pensamientos eran de continuo solamente el mal (Gn. 6:3) "},
+     {"id":2, "valor":"Porque la maldad de los hombres era tal que todos sus pensamientos eran de continuo solamente el mal (Gn. 6:2) "},
+     {"id":3, "valor":"Porque la maldad de los hombres era tal que todos sus pensamientos eran de continuo solamente el mal (Gn. 6:6) "},
+     {"id":4, "valor":"Porque la maldad de los hombres era tal que todos sus pensamientos eran de continuo solamente el mal (Gn. 6:5) "}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 34,
+   "pregunta": "¿A quiénes libró Dios del diluvio?",
+   "respuestas":[
+     {"id":1, "valor":"Noé y su familia (Génesis 7:9)"},
+     {"id":2, "valor":"Noé y su familia (Génesis 7:8)"},
+     {"id":3, "valor":"Noé y su familia (Génesis 7:7)"},
+     {"id":4, "valor":"Noé y su familia (Génesis 7:6)"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 35,
+   "pregunta": "¿Cómo se llamaban los tres hijos de Noé?",
+   "respuestas":[
+     {"id":1, "valor":"Sem, Cam y Jafet (Génesis 7:11)"},
+     {"id":2, "valor":"Sem, Cam y Jafet (Génesis 7:13)"},
+     {"id":3, "valor":"Sem, Cam y Jafet (Génesis 7:23)"},
+     {"id":4, "valor":"Sem, Cam y Jafet (Génesis 7:25)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 36,
+   "pregunta": "Durante el diluvio, ¿cuánto tiempo llovió?",
+   "respuestas":[
+     {"id":1, "valor":"40 días y 40 noches (Génesis 7:21)"},
+     {"id":2, "valor":"40 días y 40 noches (Génesis 7:12)"},
+     {"id":3, "valor":"40 días y 40 noches (Génesis 7:10)"},
+     {"id":4, "valor":"40 días y 40 noches (Génesis 7:18)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 37,
+   "pregunta": "¿Qué simbolizó el primer arco iris?",
+   "respuestas":[
+     {"id":1, "valor":"La promesa de Dios de que nunca volverá a destruir el mundo con agua (Génesis 9:14 y 15)"},
+     {"id":2, "valor":"La promesa de Dios de que nunca volverá a destruir el mundo con agua (Génesis 6:14 y 15)"},
+     {"id":3, "valor":"La promesa de Dios de que nunca volverá a destruir el mundo con agua (Génesis 9:4 y 5)"},
+     {"id":4, "valor":"La promesa de Dios de que nunca volverá a destruir el mundo con agua (Génesis 9:13 y 15)"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 38,
+   "pregunta": "Después del Diluvió, ¿Cómo se rebelaron contra Dios los habitantes de la tierra?",
+   "respuestas":[
+     {"id":1, "valor":"Ellos intentaron edificar una ciudad con una torre cuya cúspide llegará al cielo (Génesis 11:4)"},
+     {"id":2, "valor":"Ellos intentaron edificar una ciudad con una torre cuya cúspide llegará al cielo (Génesis 1:6)"},
+     {"id":3, "valor":"Ellos intentaron edificar una ciudad con una torre cuya cúspide llegará al cielo (Génesis 11:6)"},
+     {"id":4, "valor":"Ellos intentaron edificar una ciudad con una torre cuya cúspide llegará al cielo (Génesis 1:4)"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 39,
+   "pregunta": "¿Cómo juzgo Dios a los que construían la torre de Babel?",
+   "respuestas":[
+     {"id":1, "valor":"Confundió la lengua de ellos (Génesis 1:17)"},
+     {"id":2, "valor":"Confundió la lengua de ellos (Génesis 11:17)"},
+     {"id":3, "valor":"Confundió la lengua de ellos (Génesis 1:7)"},
+     {"id":4, "valor":"Confundió la lengua de ellos (Génesis 11:7)"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 40,
+   "pregunta": "¿Cómo probó Dios a Abram cuando lo mandó salir de su tierra?",
+   "respuestas":[
+     {"id":1, "valor":"Dios le pidió que lo siguiera sin saber dónde iba (Génesis 1:8)"},
+     {"id":2, "valor":"Dios le pidió que lo siguiera sin saber dónde iba (Génesis 11:8)"},
+     {"id":3, "valor":"Dios le pidió que lo siguiera sin saber dónde iba (Hebreos 11:8)"},
+     {"id":4, "valor":"Dios le pidió que lo siguiera sin saber dónde iba (Hechos 11:8)"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 41,
+   "pregunta": "¿Cómo se llamaba el sobrino de Abram?",
+   "respuestas":[
+     {"id":1, "valor":"Lot (Génesis 12:2)"},
+     {"id":2, "valor":"Lot (Génesis 12:3)"},
+     {"id":3, "valor":"Lot (Génesis 12:5)"},
+     {"id":4, "valor":"Lot (Génesis 12:1)"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 42,
+   "pregunta": "¿Cuál era el nombre original de la tierra que Dios prometió a Abram?",
+   "respuestas":[
+     {"id":1, "valor":"Canaán (Génesis 12:1)"},
+     {"id":2, "valor":"Canaán (Génesis 12:5)"},
+     {"id":3, "valor":"Canaán (Génesis 12:6)"},
+     {"id":4, "valor":"Canaán (Génesis 12:10)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 43,
+   "pregunta": "¿Cómo se llamaba la esposa de Abram?",
+   "respuestas":[
+     {"id":1, "valor":"Sarai (Génesis 14:1)"},
+     {"id":2, "valor":"Sarai (Génesis 12:5)"},
+     {"id":3, "valor":"Sarai (Génesis 14:3)"},
+     {"id":4, "valor":"Sarai (Génesis 13:1)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 44,
+   "pregunta": "¿A qué país fue a morar Abram cuando hubo hambre en la tierra?",
+   "respuestas":[
+     {"id":1, "valor":"Egipto (Gn. 12:10)"},
+     {"id":2, "valor":"Egipto (Gn. 12:11)"},
+     {"id":3, "valor":"Egipto (Gn. 12:9)"},
+     {"id":4, "valor":"Egipto (Gn. 12:8)"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 45,
+   "pregunta": "¿Qué tenía de malo que Lot viviera en Sodoma?",
+   "respuestas":[
+     {"id":1, "valor":"Los hombres de Sodoma eran en gran manera malos y pecadores contra Jehová (Gn. 13:15)"},
+     {"id":2, "valor":"Los hombres de Sodoma eran en gran manera malos y pecadores contra Jehová (Gn. 13:10)"},
+     {"id":3, "valor":"Los hombres de Sodoma eran en gran manera malos y pecadores contra Jehová (Gn. 13:11)"},
+     {"id":4, "valor":"Los hombres de Sodoma eran en gran manera malos y pecadores contra Jehová (Gn. 13:13)"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 46,
+   "pregunta": "¿Quién era Melquisedec?",
+   "respuestas":[
+     {"id":1, "valor":"Rey de Salem y Sacerdote del Dios Altísimo (Gn. 14:1)"},
+     {"id":2, "valor":"Rey de Salem y Sacerdote del Dios Altísimo (Gn. 14:11)"},
+     {"id":3, "valor":"Rey de Salem y Sacerdote del Dios Altísimo (Gn. 14:18)"},
+     {"id":4, "valor":"Rey de Salem y Sacerdote del Dios Altísimo (Gn. 14:8)"}
+   ],
+   "correcta": 3
+ },
+ {
+   "id": 47,
+   "pregunta": "¿Cómo se llamaba el hijo que tuvo Abram con Hagar?",
+   "respuestas":[
+     {"id":1, "valor":"Ismael (Gn. 16:11)"},
+     {"id":2, "valor":"Ismael (Gn. 16:15)"},
+     {"id":3, "valor":"Ismael (Gn. 16:17)"},
+     {"id":4, "valor":"Ismael (Gn. 16:16)"}
+   ],
+   "correcta": 2
+ },
+ {
+   "id": 48,
+   "pregunta": "¿Qué ciudades destruyó Dios con fuego debido a su maldad?",
+   "respuestas":[
+     {"id":1, "valor":"Sodoma y Gomorra (Gn. 19:24-25)"},
+     {"id":2, "valor":"Sodoma y Gomorra (Gn. 19:20-21)"},
+     {"id":3, "valor":"Sodoma y Gomorra (Gn. 19:22-23)"},
+     {"id":4, "valor":"Sodoma y Gomorra (Gn. 19:25-26)"}
+   ],
+   "correcta": 1
+ },
+ {
+   "id": 49,
+   "pregunta": "¿Cómo se llamaba el hijo que Abram tuvo con Sara?",
+   "respuestas":[
+     {"id":1, "valor":"Isaac (Génesis 1:2 y 3)"},
+     {"id":2, "valor":"Isaac (Génesis 20:1 y 3)"},
+     {"id":3, "valor":"Isaac (Génesis 20:2 y 4)"},
+     {"id":4, "valor":"Isaac (Génesis 21:2 y 3)"}
+   ],
+   "correcta": 4
+ },
+ {
+   "id": 50,
+   "pregunta": "¿Qué edad tenían Abraham y Sara cuando les nació Isaac?",
+   "respuestas":[
+     {"id":1, "valor":"Abraham tenía 100 años y Sara 90 años (Génesis 17:18)"},
+     {"id":2, "valor":"Abraham tenía 100 años y Sara 90 años (Génesis 17:17)"},
+     {"id":3, "valor":"Abraham tenía 100 años y Sara 90 años (Génesis 17:19)"},
+     {"id":4, "valor":"Abraham tenía 100 años y Sara 90 años (Génesis 17:15)"}
+   ],
+   "correcta": 2
+ }
+]
